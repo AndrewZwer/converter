@@ -1,0 +1,28 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "Converter for Vitalik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewZwer/converter.git"
+  },
+  "keywords": [
+    "Converter"
+  ],
+  "author": "Andrii Volkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewZwer/converter/issues"
+  },
+  "homepage": "https://github.com/AndrewZwer/converter#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.0"
+  }
+}
